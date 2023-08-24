@@ -37,4 +37,4 @@ For older versions, please refer to these repositories:
 
 ## Generating Forge JavaDocs
 
-A guide for generating JavaDocs of newer versions on your own can be found in [GUIDE.md](/GUIDE.md).
+A guide for generating JavaDocs of newer versions on your own can be found in the [GUIDE](/GUIDE.md).
