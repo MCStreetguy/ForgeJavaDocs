@@ -1,6 +1,8 @@
 # ForgeJavaDocs
 
-Manually generated JavaDocs for Minecraft Forge Modding API.
+As Forge does not provide an actual JavaDoc reference for it's code, this repository aims
+to provide manually generated JavaDocs from the official Forge source code, to assist in
+mod development especially.
 
 ## Contents
 
@@ -10,6 +12,7 @@ Manually generated JavaDocs for Minecraft Forge Modding API.
 | 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.19.4-45.1.0/) |
 
 Please note: the provided docs may be outdated and partially incomplete.
+No guarantee is given for their correctness and completeness in any case.
 
 ## Older Versions
 
