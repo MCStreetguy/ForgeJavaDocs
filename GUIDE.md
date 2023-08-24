@@ -58,13 +58,18 @@ You must adapt this snippet slightly:
 
 1. Make sure all required projects are included in the `exportedProjects` list.  
    _(This normally means all but the following projects: "clean", "fmlonly", "mdk")_
-2. Change the versions for both Forge and Minecraft in the options `windowtitle` and `doctitle`.
-3. _(optional)_ Change the `destinationDir` path if you want to store the docs somewhere else than the default `build/docs/javadoc` directory.
+2. Also make sure that no projects are included, that do not exist in the workspace!
+3. Change the versions for both Forge and Minecraft in the options `windowtitle` and `doctitle`.
+4. _(optional)_ Change the `destinationDir` path if you want to store the docs somewhere else than the default `build/docs/javadoc` directory.
 
 ## Building
 
 All you still have to do now is to run `./gradlew alljavadoc` (or `.\gradlew.bat alljavadoc` respectively).
-This will go through all projects and generate a combined JavaDoc for all of them.
+This will go through all projects and generate a combined JavaDoc for all of them in the configured location.
+
+Please note that a lot of warnings will be thrown during the process, but these can safely be ignored.
+Most of them complain about missing reference links or inproper formatting and do not really affect the result.
+As long as you get no errors you should be fine.
 
 ## Troubleshooting
 
