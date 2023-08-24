@@ -14,7 +14,7 @@ Please make sure that you have the corresponding Java Development Kit version in
 
 ## Preparation
 
-1. Clone the official Forge git repository and check out the tag of the version you want to address.
+1. Clone the [official Forge git repository](https://github.com/MinecraftForge/MinecraftForge) and check out the tag of the version you want to address.  
    This can be simply done using the following command:  
    `git clone --depth=1 --branch=<TAG_NAME> https://github.com/MinecraftForge/MinecraftForge.git`
 2. Fully setup the workspace by running the `./gradlew setup` (or `.\gradlew.bat setup`) command in the project directory.

@@ -6,8 +6,8 @@ Manually generated JavaDocs for Minecraft Forge Modding API.
 
 | **Minecraft Version** | **Forge Version** | **JavaDoc URL** |
 |:---:|:---:|:---:|
-| 1.20.1 | 47.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.20.1-47.1.0/index.html) |
-| 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.19.4-45.1.0/index.html) |
+| 1.20.1 | 47.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.20.1-47.1.0/) |
+| 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.19.4-45.1.0/) |
 
 Please note: the provided docs may be outdated and partially incomplete.
 
