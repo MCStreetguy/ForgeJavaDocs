@@ -11,7 +11,7 @@ mod development especially.
 | 1.20.1 | 47.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.20.1-47.1.0/) |
 | 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/javadoc/1.19.4-45.1.0/) |
 
-Please note: the provided docs may be outdated and partially incomplete.
+Please note: the provided docs may be outdated and partially incomplete.  
 No guarantee is given for their correctness and completeness in any case.
 
 ## Older Versions
