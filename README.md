@@ -1,17 +1,11 @@
-# ForgeJavaDocs
-
-As Forge does not provide an actual JavaDoc reference for it's code, this repository aims
-to provide manually generated JavaDocs from the official Forge source code, to assist in
-mod development especially.
-
-## Contents
+# Minecraft Forge JavaDoc Reference
 
 | **Minecraft Version** | **Forge Version** | **JavaDoc URL** |
 |:---:|:---:|:---:|
 | 1.20.1 | 47.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-47.1.0/) |
 | 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/1.19.4-45.1.0/) |
 
-Please note: the provided docs may be outdated and partially incomplete.  
+**Please note:** the provided docs may be outdated and partially incomplete.  
 No guarantee is given for their correctness and completeness in any case.
 
 ## Older Versions
