@@ -1,12 +1,18 @@
-# Minecraft Forge JavaDoc Reference
+# ForgeJavaDocs
 
-| **Minecraft Version** | **Forge Version** | **JavaDoc URL** |
-|:---:|:---:|:---:|
-| 1.20.1 | 47.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-47.1.0/) |
-| 1.19.4 | 45.1.0 | [Link](https://mcstreetguy.github.io/ForgeJavaDocs/1.19.4-45.1.0/) |
+| **Minecraft Version** | **Forge Version** | **Stable** | **JavaDoc Link** |
+|:---:|:---:|:---:|:---:|
+| 1.20.1 | 47.1.46 | ✗ | [Forge 47.1.46 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-latest/) |
+| 1.20.1 | 47.1.0 | ✓ | [Forge 47.1.0 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-47.1.0/) |
+| 1.19.4 | 45.1.0 | ✓ | [Forge 45.1.0 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.19.4-45.1.0/) |
 
 **Please note:** the provided docs may be outdated and partially incomplete.  
-No guarantee is given for their correctness and completeness in any case.
+No guarantee is given for their correctness and completeness in any case!
+
+This is especially true for versions that are not marked as "stable".
+These are based on "Latest" releases from Forge and can change anytime a new
+version is released! However, all versions marked as "stable" are based on
+"Recommended" releases, are therefore final and normally wont change anymore.
 
 ## Older Versions
 
@@ -19,7 +25,7 @@ Generated and provided by [Nekoyue](https://github.com/Nekoyue):
 [GitHub Repository](https://github.com/Nekoyue/ForgeJavaDocs-NG)  
 [GitHub Page](https://nekoyue.github.io/ForgeJavaDocs-NG/)
 
-| **Minecraft Version** | **Forge Version** | **JavaDoc URL** |
+| **Minecraft Version** | **Forge Version** | **Link** |
 |:---:|:---:|:---:|
 | 1.19.3 | 44.1.8 | [Link](https://nekoyue.github.io/ForgeJavaDocs-NG/javadoc/1.19.3/) |
 | 1.18.2 | 40.2.1 | [Link](https://nekoyue.github.io/ForgeJavaDocs-NG/javadoc/1.18.2/) |
@@ -37,7 +43,7 @@ Generated and provided by [skmedix](https://github.com/skmedix):
 [GitHub Repository](https://github.com/skmedix/ForgeJavaDocs)  
 [GitHub Page](https://skmedix.github.io/ForgeJavaDocs/)
 
-| **Minecraft Version** | **Forge Version** | **JavaDoc URL** |
+| **Minecraft Version** | **Forge Version** | **Link** |
 |:---:|:---:|:---:|
 | 1.12.2 | 14.23.5 | [Link](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.12.2-14.23.5.2859/) |
 | 1.11.2 | 13.20.0 | [Link](https://skmedix.github.io/ForgeJavaDocs/javadoc/forge/1.11.2-13.20.0.2228/) |
