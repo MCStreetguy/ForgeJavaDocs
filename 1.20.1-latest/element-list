@@ -28,6 +28,7 @@ net.minecraft.client.color.block
 net.minecraft.client.color.item
 net.minecraft.client.gui
 net.minecraft.client.gui.components
+net.minecraft.client.gui.components.debugchart
 net.minecraft.client.gui.components.events
 net.minecraft.client.gui.components.spectator
 net.minecraft.client.gui.components.tabs
@@ -87,6 +88,7 @@ net.minecraft.client.renderer.texture.atlas.sources
 net.minecraft.client.resources
 net.minecraft.client.resources.language
 net.minecraft.client.resources.metadata.animation
+net.minecraft.client.resources.metadata.gui
 net.minecraft.client.resources.metadata.language
 net.minecraft.client.resources.metadata.texture
 net.minecraft.client.resources.model
@@ -138,9 +140,13 @@ net.minecraft.network
 net.minecraft.network.chat
 net.minecraft.network.chat.contents
 net.minecraft.network.protocol
+net.minecraft.network.protocol.common
+net.minecraft.network.protocol.common.custom
+net.minecraft.network.protocol.configuration
 net.minecraft.network.protocol.game
 net.minecraft.network.protocol.handshake
 net.minecraft.network.protocol.login
+net.minecraft.network.protocol.login.custom
 net.minecraft.network.protocol.status
 net.minecraft.network.syncher
 net.minecraft.obfuscate
@@ -158,6 +164,7 @@ net.minecraft.server.gui
 net.minecraft.server.level
 net.minecraft.server.level.progress
 net.minecraft.server.network
+net.minecraft.server.network.config
 net.minecraft.server.packs
 net.minecraft.server.packs.linkfs
 net.minecraft.server.packs.metadata
@@ -358,6 +365,7 @@ net.minecraftforge.event.entity.living
 net.minecraftforge.event.entity.player
 net.minecraftforge.event.furnace
 net.minecraftforge.event.level
+net.minecraftforge.event.network
 net.minecraftforge.event.server
 net.minecraftforge.event.village
 net.minecraftforge.fluids
@@ -392,9 +400,10 @@ net.minecraftforge.items
 net.minecraftforge.items.wrapper
 net.minecraftforge.logging
 net.minecraftforge.network
-net.minecraftforge.network.event
+net.minecraftforge.network.config
 net.minecraftforge.network.filters
-net.minecraftforge.network.simple
+net.minecraftforge.network.packets
+net.minecraftforge.network.tasks
 net.minecraftforge.registries
 net.minecraftforge.registries.holdersets
 net.minecraftforge.registries.tags
