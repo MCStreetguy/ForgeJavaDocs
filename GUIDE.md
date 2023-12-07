@@ -54,6 +54,9 @@ task alljavadoc(type: Javadoc) {
 }
 ```
 
+Please note that in newer versions of Forge (namely 49.0.0 and above) you may find a very short `build.gradle` file alongside several
+other `.gradle` files. In that case you want to append the snippet to the `build_forge.gradle` file instead of the main to prevent errors.
+
 You must adapt this snippet slightly:
 
 1. Make sure all required projects are included in the `exportedProjects` list.  
@@ -77,3 +80,4 @@ If you run into any errors:
 
 1. Make sure the `exportedProjects` list is correct! _This is the most common source of errors in this process._
 2. Make sure all options have been changed correctly and that the overall syntax of the file is still valid.
+3. In newer versions, make sure you appended the snippet to the correct `build_forge.gradle` file instead of `build.gradle`
