@@ -2,7 +2,8 @@
 
 | **Minecraft Version** | **Forge Version** | **Stable** | **JavaDoc Link** |
 |:---:|:---:|:---:|:---:|
-| 1.20.3 | 49.0.0 | ✗ | [Forge 49.0.0 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.3-latest/) |
+| 1.20.4 | 49.0.19 | ✗ | [Forge 49.0.19 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.4-latest/) |
+| 1.20.3 | 49.0.2 | ✗ | [Forge 49.0.2 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.3-latest/) |
 | 1.20.2 | 48.1.0 | ✓ | [Forge 48.1.0 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.2-48.1.0/) |
 | 1.20.1 | 47.2.17 | ✗ | [Forge 47.2.17 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-latest/) |
 | 1.20.1 | 47.2.0 | ✓ | [Forge 47.2.0 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.1-47.2.0/) |
