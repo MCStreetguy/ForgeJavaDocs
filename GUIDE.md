@@ -42,6 +42,7 @@ task alljavadoc(type: Javadoc) {
         'implNote:a:<em>Implementation Note:</em>'
     ]
     options.addStringOption('Xdoclint:none', '-private')
+    options.addStringOption('locale', 'en_US')
     options.addStringOption('encoding', 'utf-8')
     options.addStringOption('docencoding', 'utf-8')
     options.addStringOption('charset', 'utf-8')
@@ -69,6 +70,8 @@ You must adapt this snippet slightly:
 
 All you still have to do now is to run `./gradlew alljavadoc` (or `.\gradlew.bat alljavadoc` respectively).
 This will go through all projects and generate a combined JavaDoc for all of them in the configured location.
+
+If you are working on a system with a non-english locale, you will need to force Java to use english for the JavaDoc by setting the env variable `JAVA_TOOL_OPTIONS="-Duser.language=en"` for Gradle prior to building.
 
 Please note that a lot of warnings will be thrown during the process, but these can safely be ignored.
 Most of them complain about missing reference links or inproper formatting and do not really affect the result.
