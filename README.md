@@ -1,5 +1,7 @@
 # ForgeJavaDocs
 
+> **Heads up!** If you landed here but are actually looking for NeoForge JavaDocs instead, please see <https://mcstreetguy.github.io/NeoForgeJavaDocs/>.
+
 | **Minecraft Version** | **Forge Version** | **Stable** | **JavaDoc Link** |
 |:---:|:---:|:---:|:---:|
 | 1.20.6 | 50.0.8 | ✗ | [Forge 50.0.8 JavaDoc](https://mcstreetguy.github.io/ForgeJavaDocs/1.20.6-latest/) |
